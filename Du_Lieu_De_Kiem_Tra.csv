@@ -1,0 +1,32 @@
+﻿Cau,Loai_Cau,Noi_Dung,Dap_An_A_Y_a,Dap_An_B_Y_b,Dap_An_C_Y_c,Dap_An_D_Y_d,Dap_An_Dung
+Câu 1,Trắc nghiệm,Điều kiện xác định của biểu thức \sqrt{2x - 4} là:,x > 2,x >= 2,x < 2,x <= 2,B
+Câu 2,Trắc nghiệm,Căn bậc hai số học của 81 là:,9,-9,\pm 9,81,A
+Câu 3,Trắc nghiệm,Rút gọn biểu thức \sqrt{a^2} với a >= 0 ta được:,a,-a,|a|,0,A
+Câu 4,Trắc nghiệm,Giá trị của biểu thức \sqrt{(-5)^2} bằng:,-5,5,\pm 5,25,B
+Câu 5,Trắc nghiệm,Kết quả của phép tính \sqrt{12} * \sqrt{3} là:,\sqrt{15},6,36,4,B
+Câu 6,Trắc nghiệm,Kết quả của phép tính \sqrt{50} / \sqrt{2} là:,5,\sqrt{48},25,10,A
+Câu 7,Trắc nghiệm,"Sau khi trục căn thức ở mẫu, biểu thức 2/\sqrt{3} trở thành:",\sqrt{3}/3,2\sqrt{3}/3,2\sqrt{3},\sqrt{3},B
+Câu 8,Trắc nghiệm,Rút gọn biểu thức 3\sqrt{2} - \sqrt{8} ta được:,\sqrt{2},-\sqrt{2},2\sqrt{2},5\sqrt{2},A
+Câu 9,Trắc nghiệm,Khử mẫu của biểu thức lấy căn \sqrt{1/2} ta được:,\sqrt{2}/2,1/2,\sqrt{2},1,A
+Câu 10,Trắc nghiệm,Tập nghiệm của phương trình \sqrt{x} = 4 là:,x = 2,x = \pm 2,x = 16,x = -16,C
+Câu 11,Trắc nghiệm,Điều kiện xác định của biểu thức 1/\sqrt{x-1} là:,x >= 1,x > 1,x \ne 1,x < 1,B
+Câu 12,Trắc nghiệm,Rút gọn biểu thức \sqrt{(1-\sqrt{2})^2} ta được:,1-\sqrt{2},\sqrt{2}-1,1+\sqrt{2},-1,B
+Câu 13,Trắc nghiệm,Khẳng định nào sau đây đúng khi so sánh 3 và \sqrt{10}?,3 > \sqrt{10},3 < \sqrt{10},3 = \sqrt{10},Không thể so sánh,B
+Câu 14,Trắc nghiệm,Giá trị của \sqrt[3]{-27} là:,3,-3,\pm 3,Không xác định,B
+Câu 15,Trắc nghiệm,Rút gọn biểu thức \sqrt{20} - 2\sqrt{5} ta được:,0,-\sqrt{5},\sqrt{5},2\sqrt{5},A
+Câu 16,Trắc nghiệm,Đưa thừa số ra ngoài dấu căn của biểu thức \sqrt{72} ta được:,3\sqrt{8},6\sqrt{2},2\sqrt{18},8\sqrt{3},B
+Câu 17,Trắc nghiệm,"Với x < 0, y >= 0, đưa thừa số vào trong dấu căn của biểu thức x\sqrt{y} ta được:",\sqrt{x^2y},-\sqrt{x^2y},\sqrt{-x^2y},-\sqrt{xy},B
+Câu 18,Trắc nghiệm,Tính \sqrt{9} + \sqrt{16} có kết quả là:,7,5,25,12,A
+Câu 19,Trắc nghiệm,Tính \sqrt{9+16} có kết quả là:,7,5,25,12,B
+Câu 20,Trắc nghiệm,Số nghiệm của phương trình \sqrt{x-1} = -2 là:,0,1,2,Vô số nghiệm,A
+Câu 21,Đúng/Sai,Cho biểu thức A = \sqrt{x+2}.,a) ĐK là x >= -2,"b) Tại x=2, A=2",c) A > 0 với mọi x >= -2,d) A=3 khi x=7,Đ-Đ-S-Đ
+Câu 22,Đúng/Sai,Xét các công thức biến đổi căn thức:,"a) \sqrt{ab}=\sqrt{a}\sqrt{b} mọi a,b",b) \sqrt{a^2}=a mọi a>=0,"c) \sqrt{a/b}=\sqrt{a}/\sqrt{b} a>=0,b>0",d) \sqrt{a+b}=\sqrt{a}+\sqrt{b},S-Đ-Đ-S
+Câu 23,Đúng/Sai,Cho biểu thức liên quan đến căn bậc ba:,a) CB3 của 8 là \pm 2,b) \sqrt[3]{-64}=-4,c) Mọi số thực đều có 1 CB3,d) \sqrt[3]{a^3}=|a| mọi a,S-Đ-Đ-S
+Câu 24,Trả lời ngắn,Tìm giá trị của x biết \sqrt{x^2} = 7.,,,,,x = \pm 7
+Câu 25,Trả lời ngắn,Rút gọn biểu thức A = \sqrt{75} + \sqrt{48} - \sqrt{300}.,,,,,-\sqrt{3}
+Câu 26,Trả lời ngắn,Trục căn thức ở mẫu biểu thức 5/\sqrt{5}.,,,,,\sqrt{5}
+Câu 27,Trả lời ngắn,Tính giá trị của biểu thức B = \sqrt{(2-\sqrt{5})^2}.,,,,,\sqrt{5} - 2
+Câu 28,Trả lời ngắn,Tìm điều kiện của x để biểu thức \sqrt{3x+6} có nghĩa.,,,,,x >= -2
+Câu 29,Trả lời ngắn,Tính giá trị của biểu thức C = \sqrt[3]{125} - \sqrt[3]{-8}.,,,,,7
+Câu 30,Trả lời ngắn,"Rút gọn biểu thức D = (a - \sqrt{a})/(\sqrt{a} - 1) với a > 0, a \ne 1.",,,,,\sqrt{a}
+Câu 31,Trả lời ngắn,Tính giá trị biểu thức E = \sqrt{5+2\sqrt{6}}.,,,,,\sqrt{3} + \sqrt{2}
